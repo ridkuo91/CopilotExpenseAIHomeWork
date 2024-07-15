@@ -1,0 +1,6 @@
+C:\Users\Rid Kuo\RiderProjects\GithubCopilotExpenseService\GithubCopilotExpenseServiceTest\obj\Debug\net8.0\GithubCopilotExpenseServiceTest.csproj.AssemblyReference.cache
+C:\Users\Rid Kuo\RiderProjects\GithubCopilotExpenseService\GithubCopilotExpenseServiceTest\obj\Debug\net8.0\GithubCopilotExpenseServiceTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rid Kuo\RiderProjects\GithubCopilotExpenseService\GithubCopilotExpenseServiceTest\obj\Debug\net8.0\GithubCopilotExpenseServiceTest.AssemblyInfoInputs.cache
+C:\Users\Rid Kuo\RiderProjects\GithubCopilotExpenseService\GithubCopilotExpenseServiceTest\obj\Debug\net8.0\GithubCopilotExpenseServiceTest.AssemblyInfo.cs
+C:\Users\Rid Kuo\RiderProjects\GithubCopilotExpenseService\GithubCopilotExpenseServiceTest\obj\Debug\net8.0\GithubCopilotExpenseServiceTest.csproj.CoreCompileInputs.cache
+C:\Users\Rid Kuo\RiderProjects\GithubCopilotExpenseService\GithubCopilotExpenseServiceTest\bin\Debug\net8.0\CoverletSourceRootsMapping_GithubCopilotExpenseServiceTest

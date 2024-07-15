@@ -1,0 +1,6 @@
+@GithubCopilotExpenseService_HostAddress = http://localhost:5188
+
+GET {{GithubCopilotExpenseService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
